@@ -272,7 +272,7 @@ a img:hover{
 #photograph .photograph-list li{
     float: left;
     list-style: none;
-    margin: none;
+    margin: 0 20px 15px 0;
 }
 
 #photograph .photograph-list li:nth-child(3n){
