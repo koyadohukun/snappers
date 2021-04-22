@@ -260,3 +260,29 @@ a img:hover{
 .sidebar ul a{
     color: #333333;
 }
+
+#photograph{
+    background-image: url(../images/bg-photograph.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+#photograph .photograph-list li{
+    float: left;
+    list-style: none;
+    margin: none;
+}
+
+#photograph .photograph-list li:nth-child(3n){
+    margin-right: 0;
+}
+
+#video{
+    background-image: url(../images/bg-video.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
