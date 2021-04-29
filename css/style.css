@@ -452,8 +452,10 @@ a img:hover{
         background-color: #f7f6f4;
     }
 
-    #about .main-center{
-        width: 90%;
+    #about .main{
+        float: none;
+        width: auto;
+        margin: 0 5%;
     }
 
     #about .profile-image{
@@ -461,6 +463,7 @@ a img:hover{
     }
 
     .career{
-        width: 100%;
+        width: auto;
+        margin: 0 5%;
     }
 }
