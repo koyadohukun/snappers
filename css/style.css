@@ -452,10 +452,14 @@ a img:hover{
         background-color: #f7f6f4;
     }
 
+    #about .main-center{
+        width: 100%;
+    }
+
     #about .profile-image{
         float: none;
     }
-    
+
     .career{
         width: 100%;
     }
