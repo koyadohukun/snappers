@@ -451,4 +451,12 @@ a img:hover{
         padding: 30px 10% 10px;
         background-color: #f7f6f4;
     }
+
+    #about .profile-image{
+        float: none;
+    }
+    
+    .career{
+        width: 100%;
+    }
 }
