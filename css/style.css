@@ -452,7 +452,7 @@ a img:hover{
         background-color: #f7f6f4;
     }
 
-    #about .main{
+    #about .main-center{
         float: none;
         width: auto;
         margin: 0 5%;
@@ -462,7 +462,7 @@ a img:hover{
         float: none;
     }
 
-    .career{
+    #about .career{
         width: auto;
         margin: 0 5%;
     }
