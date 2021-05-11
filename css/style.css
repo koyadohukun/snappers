@@ -386,6 +386,10 @@ a img:hover{
 
 @media screen and (max-width:600px){
     /* 画面サイズが600px以下の時に適用 */
+    p br {
+        display: none;
+      }
+
     body{
         font-size: 3.5vw;
     }
@@ -466,4 +470,11 @@ a img:hover{
         width: auto;
         margin: 0 5%;
     }
+
+    #about .profile-txt{
+        float: none;
+        width: auto;
+        margin: 0 5%;
+    }
+
 }
