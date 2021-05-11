@@ -386,9 +386,6 @@ a img:hover{
 
 @media screen and (max-width:600px){
     /* 画面サイズが600px以下の時に適用 */
-    p br {
-        display: none;
-      }
 
     body{
         font-size: 3.5vw;
@@ -475,6 +472,54 @@ a img:hover{
         float: none;
         width: auto;
         margin: 0 5%;
+    }
+
+    #contact .main-center{
+        float: none;
+        width: auto;
+        margin: 0 5%;
+    }
+
+    #contact .access iframe{
+        float: none;
+        width: auto;
+    }
+
+    #contact .form .name{
+        float: none;
+        width: auto;
+        margin: 0 5%;
+    }
+    
+    #contact .form .email{
+        float: none;
+        width: auto;
+        margin: 0 5%;
+    }
+    
+    #contact .form .tel{
+        float: none;
+        width: auto;
+        margin: 0 5%;
+    }
+    
+    #contact .form .type{
+        float: none;
+        width: auto;
+        margin: 0 5%;
+    }
+    
+    #contact .form .message{
+        float: none;
+        width: auto;
+        margin: 0 5%;
+    }
+    #contact .form button{
+        margin-left: 12vw;
+    }
+
+    #contact .form .attention{
+        margin-left: 12vw;
     }
 
 }
